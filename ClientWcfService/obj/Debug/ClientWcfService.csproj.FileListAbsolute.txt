@@ -1,0 +1,7 @@
+C:\Users\Gustavo Morilla\source\repos\ClientWcfService\bin\ClientWcfService.dll.config
+C:\Users\Gustavo Morilla\source\repos\ClientWcfService\bin\ClientWcfService.dll
+C:\Users\Gustavo Morilla\source\repos\ClientWcfService\bin\ClientWcfService.pdb
+C:\Users\Gustavo Morilla\source\repos\ClientWcfService\obj\Debug\ClientWcfService.csprojAssemblyReference.cache
+C:\Users\Gustavo Morilla\source\repos\ClientWcfService\obj\Debug\ClientWcfService.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Morilla\source\repos\ClientWcfService\obj\Debug\ClientWcfService.dll
+C:\Users\Gustavo Morilla\source\repos\ClientWcfService\obj\Debug\ClientWcfService.pdb
