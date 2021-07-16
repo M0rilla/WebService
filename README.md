@@ -1,7 +1,7 @@
 # WebService
 
 <h1 align="center">
-    <img alt="Letmeask" src=".github/cover.svg" />
+    <img alt="WebService" src="" />
 </h1>
 
 <p align="center">
